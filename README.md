@@ -152,9 +152,9 @@ The application will launch in your default browser at `http://localhost:8501`
 
 ### 2. Similarity Graph Visualization
 <img width="667" height="442" alt="image" src="https://github.com/user-attachments/assets/f1a5c0fe-c610-40d8-92c0-af04bd343552" />
+
 *Interactive network graph showing email relationships and spam clusters*
 
-> **Note**: Replace placeholder images with actual screenshots of your application
 
 ---
 
@@ -310,7 +310,6 @@ Contributions are welcome! Here's how you can help:
 
 ## 👨‍💻 Author
 
-**Your Name**
 - GitHub: [shaheerzafarr]([https://github.com/your-username](https://github.com/shaheerzafarr))
 - LinkedIn: [Muhammad Shaheer Zafar]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-shaheer-zafar-146a08356/))
 - Email: shaheerzafar2004@gmail.com
@@ -342,24 +341,11 @@ Contributions are welcome! Here's how you can help:
 
 This project is for **educational and research purposes only**. It is not intended to replace professional email security solutions. Always use multiple layers of security when dealing with sensitive communications.
 
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check the [Issues](https://github.com/your-username/hybrid-spam-detection/issues)** page
-2. **Open a new issue** with detailed description
-3. **Contact the maintainer** via email
-4. **Join discussions** in the community forum
-
----
-
 ## 🌟 Star History
 
 If you find this project useful, please consider giving it a ⭐!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/hybrid-spam-detection&type=Date)](https://star-history.com/#your-username/hybrid-spam-detection&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=shaheerzafarr/hybrid-spam-detection&type=Date)](https://star-history.com/#shaheerzafarr/hybrid-spam-detection&Date)
 
 ---
 
