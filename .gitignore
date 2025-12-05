@@ -1,9 +1,9 @@
-# Large data files (too big for GitHub)
-balanced.csv
-enron_spam_data.csv
+# Large data files (now tracked via Git LFS)
+# balanced.csv
+# enron_spam_data.csv
 
-# Model files (can be regenerated)
-*.pkl
+# Model files (now tracked via Git LFS)
+# *.pkl
 
 # Python
 __pycache__/
