@@ -148,11 +148,11 @@ The application will launch in your default browser at `http://localhost:8501`
 ## 🖼️ Screenshots
 
 ### 1. Dashboard Interface
-![Dashboard]([https://via.placeholder.com/800x400?text=Dashboard+Interface](https://drive.google.com/file/d/1npnlMQW_FmA_zuSSLhVvN2Czgkf38nh1/view?usp=sharing))
+![Dashboard]((https://drive.google.com/file/d/1npnlMQW_FmA_zuSSLhVvN2Czgkf38nh1/view?usp=sharing))
 *The main interface where users input email text and receive instant classification results*
 
 ### 2. Similarity Graph Visualization
-![Graph Visualization]([https://via.placeholder.com/800x400?text=Similarity+Graph+Network](https://drive.google.com/file/d/1p9RYeXTEqe49B4MESKpHSGw0i-arq6Dd/view?usp=sharing))
+![Graph Visualization](https://drive.google.com/file/d/1p9RYeXTEqe49B4MESKpHSGw0i-arq6Dd/view?usp=sharing))
 *Interactive network graph showing email relationships and spam clusters*
 
 > **Note**: Replace placeholder images with actual screenshots of your application
